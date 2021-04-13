@@ -1,0 +1,30 @@
+[submodule "design-patterns-cpp"]
+	path = design-patterns-cpp
+	url = git@github.com:RefactoringGuru/design-patterns-cpp.git
+[submodule "design-patterns-csharp"]
+	path = design-patterns-csharp
+	url = git@github.com:RefactoringGuru/design-patterns-csharp.git
+[submodule "design-patterns-java"]
+	path = design-patterns-java
+	url = git@github.com:RefactoringGuru/design-patterns-java.git
+[submodule "design-patterns-go"]
+	path = design-patterns-go
+	url = git@github.com:RefactoringGuru/design-patterns-go.git
+[submodule "design-patterns-php"]
+	path = design-patterns-php
+	url = git@github.com:RefactoringGuru/design-patterns-php.git
+[submodule "design-patterns-swift"]
+	path = design-patterns-swift
+	url = git@github.com:RefactoringGuru/design-patterns-swift.git
+[submodule "design-patterns-python"]
+	path = design-patterns-python
+	url = git@github.com:RefactoringGuru/design-patterns-python.git
+[submodule "design-patterns-ruby"]
+	path = design-patterns-ruby
+	url = git@github.com:RefactoringGuru/design-patterns-ruby.git
+[submodule "design-patterns-typescript"]
+	path = design-patterns-typescript
+	url = git@github.com:RefactoringGuru/design-patterns-typescript.git
+[submodule "design-patterns-delphi"]
+	path = design-patterns-delphi
+	url = git@github.com:RefactoringGuru/design-patterns-delphi.git
